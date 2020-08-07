@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "name": "user1",
+            "pw": "jfgugkukdg",
+            "uuid": "d5f45b2d-df8c-4669-80f3-9ce4d39d312c"
+        },
+        {
+            "name": "user2",
+            "pw": "jfgugkukdg",
+            "uuid": "7783ebb0-fcf8-48ba-a817-f1858bca524f"
+        },
+        {
+            "name": "user3",
+            "pw": "jfgugkukdg",
+            "uuid": "cd4d3387-95ab-49f6-9c64-3a63d3171c7a"
+        },
+        {
+            "name": "user4",
+            "pw": "jfgugkukdg",
+            "uuid": "06f566ce-b2ed-46c8-b102-a42b5e22b98c"
+        },
+        {
+            "name": "user5",
+            "pw": "jfgugkukdg",
+            "uuid": "6fb8ced9-bd1b-465b-b60a-88ae89056228"
+        }
+    ]
+}
